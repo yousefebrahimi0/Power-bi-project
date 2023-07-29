@@ -1,0 +1,7 @@
+**info**
+
+For the column "Arrest", when the field is empty, please consider the value in the last populated cell
+
+
+For the column "Domestic", when the field is empty, please consider the value in the previous populated cell
+
